@@ -1,0 +1,3 @@
+The Transportation problems deal with assigning sources to destinations and machines.
+
+Suppose a company has m factories where it manufactures its product and n outlets from where the product is sold. Transporting the product from a factory to an outlet costs some money which depends on several factors and varies for each choice of factory and outlet. The total amount of the product a particular factory makes is fixed and so is the total amount a particular outlet can store. The problem is to decide how much of the product should be supplied from each factory to each outlet so that the total cost is minimum.
